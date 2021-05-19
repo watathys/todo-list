@@ -182,7 +182,7 @@ This uses a standard button element, with the `v-on` attribute that
 tells Vue to call the `deleteItem` method when the click event is
 triggered for the button. We pass the current `item` to this method.
 
-To make this work, add another method in `script.js`, after `completeItem`:
+To make this work, add another method in `script.js`, after `addItem`:
 
 ```
     deleteItem(item) {
