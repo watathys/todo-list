@@ -5,6 +5,7 @@ body {
     background: #f3f3f3;
 }
 
+
 /* List */
 
 ul {
@@ -39,6 +40,7 @@ label {
     text-decoration: line-through;
 }
 
+
 /* Form */
 
 input[type=checkbox] {
@@ -54,6 +56,7 @@ button {
     font-family: 'Arvo';
     font-size: 1em;
 }
+
 
 /* Controls */
 
